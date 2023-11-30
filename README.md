@@ -42,4 +42,5 @@ The course will run from Tuesday, January 16th - Thursday, January 25th.
 
 ### Monday, January 22nd: Technical writing and publication
 * Markdown
+  * https://www.markdownguide.org/getting-started/
 * MyST Markdown & Jupyterbook
