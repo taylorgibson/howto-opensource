@@ -44,3 +44,10 @@ The course will run from Tuesday, January 16th - Thursday, January 25th.
 * Markdown
   * https://www.markdownguide.org/getting-started/
 * MyST Markdown & Jupyterbook
+
+
+## Resources
+* https://cnr.ncsu.edu/geospatial/news/2023/11/16/what-is-open-science/
+* https://nasa.github.io/Transform-to-Open-Science/
+  * https://github.com/nasa/Transform-to-Open-Science/tree/main/docs/Area2_Capacity_Sharing/Open-Science-101
+* https://github.com/giswqs/jupyter-qgis
