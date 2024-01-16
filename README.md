@@ -22,6 +22,7 @@ The course will run from Tuesday, January 16th - Thursday, January 25th.
 * **Activity**: Introduction to Command Line (60 minutes)
     * [Command Line Challenge](https://cmdchallenge.com)
     * [bashcrawl](https://gitlab.com/slackermedia/bashcrawl)
+    * [Common terminal commands (realpython.com)](https://realpython.com/terminal-commands/#learn-basic-terminal-commands)
 * Any troubleshooting from today's activities
 
 #### Reading (on your own)
