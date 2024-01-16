@@ -13,14 +13,14 @@ The course will run from Tuesday, January 16th - Thursday, January 25th.
 ### Tuesday, January 16th: What is open source?
 
 #### Morning: Welcome and Getting Started (9am - noon)
-* Introductions
-* The need for open science ([slides](https://docs.google.com/presentation/d/1NzRybc7jhYV9KMoZM95LAieRbF_vXwBPM4LE_I2BVkA/edit?usp=sharing))
-* Discussion: What do you want to do by the end of this course?
-* What is open source?
+* Introductions (30 minutes)
+* The need for open science ([slides](https://docs.google.com/presentation/d/1NzRybc7jhYV9KMoZM95LAieRbF_vXwBPM4LE_I2BVkA/edit?usp=sharing)) (30 minutes)
+* **Activity**: Installing Linux on Windows (30 minutes)
+* **Activity**: Creating datahub and github accounts
 
 #### Afternoon (2pm - 4pm)
-* **Activity**: Installing Linux on Windows (30 minutes)
 * **Activity**: Introduction to Command Line (60 minutes)
+* Any troubleshooting from today's activities
 
 #### Reading (on your own)
 * [Developing open source scientific practice (Millman & Perez)](https://berkeley-stat159-f17.github.io/stat159-f17/_static/ref/millman-perez.pdf) Introduction and Chapters 1-2 (About 8 pages total)
