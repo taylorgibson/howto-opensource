@@ -20,7 +20,7 @@ The course will run from Tuesday, January 16th - Thursday, January 25th.
 
 #### Afternoon (2pm - 4pm)
 * **Activity**: Introduction to Command Line (60 minutes)
-    * [Command Line Challenge] (https://cmdchallenge.com)
+    * [Command Line Challenge](https://cmdchallenge.com)
     * [bashcrawl](https://gitlab.com/slackermedia/bashcrawl)
 * Any troubleshooting from today's activities
 
