@@ -33,7 +33,10 @@ The course will run from Tuesday, January 16th - Thursday, January 25th.
 
 #### Morning: 9am - 10am and 11am - noon
 * Finding good data (15 minutes)
-    * 
+    * [Data is plural](https://www.data-is-plural.com/)
+    * [Kaggle](https://www.kaggle.com)
+    * [Gapminder](https://www.gapminder.org/)
+    * [Project Gutenberg](https://www.gutenberg.org/)
 * Fundamentals of Computing, part I (30 minutes)
 * Learning about Learning (15 minutes)
 * On your own: [60 minutes: Duke Clinical Trials](https://www.youtube.com/watch?v=W5sZTNPMQRM)
