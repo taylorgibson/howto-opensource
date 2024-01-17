@@ -40,6 +40,7 @@ The course will run from Tuesday, January 16th - Thursday, January 25th.
 * On your own: [The Importance of Reproducible Research in High-Throughput Biology](https://www.youtube.com/watch?v=8QJfNS7XXwA)
 * Introduction to Python (30 minutes)
 * Introduction to R (30 minutes)
+   * [A Gentle Introduction to Tidy Statistics in R (Thomas Mock)](https://posit.co/resources/videos/a-gentle-introduction-to-tidy-statistics-in-r/)
 
 #### Afternoon: 2pm - 4pm
 * Programming boot camp
