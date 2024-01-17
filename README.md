@@ -32,14 +32,21 @@ The course will run from Tuesday, January 16th - Thursday, January 25th.
 ### Wednesday, January 17th: Fundamentals of Computing, Day 1
 
 #### Morning: 9am - 10am and 11am - noon
+* Finding good data (15 minutes)
+    * 
+* Fundamentals of Computing, part I (30 minutes)
+* Learning about Learning (15 minutes)
+* On your own: [60 minutes: Duke Clinical Trials](https://www.youtube.com/watch?v=W5sZTNPMQRM)
+* On your own: [The Importance of Reproducible Research in High-Throughput Biology](https://www.youtube.com/watch?v=8QJfNS7XXwA)
 * Introduction to Python (30 minutes)
 * Introduction to R (30 minutes)
-* Fundamentals of Computing, part I (30 minutes)
-* Learning about Learning (30 minutes)
 
 #### Afternoon: 2pm - 4pm
 * Programming boot camp
-* Introduction to Datahub
+
+#### Reading (on your own)
+* [Developing open source scientific practice (Millman & Perez)](https://berkeley-stat159-f17.github.io/stat159-f17/_static/ref/millman-perez.pdf) Chapter 3 (About 8 pages total)
+* [Reproducible Research (Yale Law School Roundtable on Data and Code Sharing)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5562471) (5 pages)
 
 ### Thursday, January 18th: Fundamentals of Computing, Day 2
 
@@ -51,6 +58,9 @@ The course will run from Tuesday, January 16th - Thursday, January 25th.
 #### Afternoon: 2pm - 4pm
 * Break into groups with similar interests
 * Find data for your shared project
+
+### Reading (on your own)
+* [Perspectives on Data Reproducibility and Replicability in Paleoclimate and Climate Science (Bush, et al.)](https://hdsr.mitpress.mit.edu/pub/dijwtzza/release/1) (About 16 pages)
 
 ### Friday, January 19th: Setting up Your Environment
 
