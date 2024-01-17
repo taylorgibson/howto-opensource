@@ -44,6 +44,7 @@ The course will run from Tuesday, January 16th - Thursday, January 25th.
 
 #### Afternoon: 2pm - 4pm
 * Programming boot camp
+  *  [10 minutes to Pandas](https://pandas.pydata.org/docs/user_guide/10min.html#merge)
 
 #### Reading (on your own)
 * [Developing open source scientific practice (Millman & Perez)](https://berkeley-stat159-f17.github.io/stat159-f17/_static/ref/millman-perez.pdf) Chapter 3 (About 8 pages total)
