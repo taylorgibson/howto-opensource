@@ -61,6 +61,7 @@ The course will run from Tuesday, January 16th - Thursday, January 25th.
     * Virtual environments (`conda`/`mamba`, `venv`)
     * Installing packages (`conda`/`mamba`, `pip`)
     * Popular open source scientific tools
+    * [Reference for `conda`/`mamba`](https://docs.conda.io/projects/conda/en/latest/commands/index.html)
 
 #### Afternoon: 2pm - 4pm
 * Break into groups with similar interests
