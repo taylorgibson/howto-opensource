@@ -67,7 +67,7 @@ The course will run from Tuesday, January 16th - Thursday, January 25th.
 * Find data for your shared project
 
 #### Reading (on your own)
-* [Jupyter: Thinking and Storytelling With Code and Data (Granger and Pérez) (2021)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9387490)
+* [Jupyter: Thinking and Storytelling With Code and Data (Granger and Pérez) (2021)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9387490) (7 pages)
 * [Perspectives on Data Reproducibility and Replicability in Paleoclimate and Climate Science (Bush, et al.)](https://hdsr.mitpress.mit.edu/pub/dijwtzza/release/1) (About 16 pages)
 
 ### Friday, January 19th: Setting up Your Environment
