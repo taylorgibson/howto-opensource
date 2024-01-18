@@ -46,7 +46,7 @@ The course will run from Tuesday, January 16th - Thursday, January 25th.
    * [A Gentle Introduction to Tidy Statistics in R (Thomas Mock)](https://posit.co/resources/videos/a-gentle-introduction-to-tidy-statistics-in-r/)
 
 #### Afternoon: 2pm - 4pm
-* Programming boot camp
+* Data Types and Programming boot camp (60 minutes)
   *  [10 minutes to Pandas](https://pandas.pydata.org/docs/user_guide/10min.html#merge)
 
 #### Reading (on your own)
@@ -55,32 +55,33 @@ The course will run from Tuesday, January 16th - Thursday, January 25th.
 
 ### Thursday, January 18th: Fundamentals of Computing, Day 2
 
-#### Morning: 9am - noon
-* Data Types (60 minutes)
+#### Morning: 9am - 11am
 * Fundamentals of Computing, part II (60 minutes)
-* REPL, Scripts, and Notebooks (60 minutes)
+* Dependency Management (60 minutes)
+    * Virtual environments (`conda`/`mamba`, `venv`)
+    * Installing packages (`conda`/`mamba`, `pip`)
+    * Popular open source scientific tools
 
 #### Afternoon: 2pm - 4pm
 * Break into groups with similar interests
 * Find data for your shared project
 
-### Reading (on your own)
+#### Reading (on your own)
+* [Jupyter: Thinking and Storytelling With Code and Data (Granger and Pérez) (2021)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9387490)
 * [Perspectives on Data Reproducibility and Replicability in Paleoclimate and Climate Science (Bush, et al.)](https://hdsr.mitpress.mit.edu/pub/dijwtzza/release/1) (About 16 pages)
 
 ### Friday, January 19th: Setting up Your Environment
 
-#### Morning: 9am - noon
-* Dependency Management (60 minutes)
-    * Virtual environments (`conda`/`mamba`, `venv`)
-    * Installing packages (`conda`/`mamba`, `pip`)
-    * Popular open source scientific tools
+#### Morning: 9am - 11am
 * Introduction to Git and Github (60 minutes)
     * [Ten Simple Rules for Taking Advantage of Git and Github (PLOS Computational Biology)](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004947)
 * Beginning a Project (60 minutes)
 
 #### Afternoon: 2pm - 4pm
-* Installing `mamba` in your terminal
-* Create github repository for your project
+* Create github repository for your project and fill it with data and notebooks
+
+#### Reading (on your own)
+* [Open Science by Design, Realizing a Vision for 21st Century Research (National Academies of Sciences, Engineering, and Medicine) (2018)] (https://www.ncbi.nlm.nih.gov/books/NBK525417/pdf/Bookshelf_NBK525417.pdf) Chapter 4 (starts at page 124 in the PDF, which is page number 107 in the paper)
 
 ### Monday, January 22nd: Technical writing and publication
 
