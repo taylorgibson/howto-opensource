@@ -82,18 +82,33 @@ The course will run from Tuesday, January 16th - Thursday, January 25th.
 * Create github repository for your project and fill it with data and notebooks
 
 #### Reading (on your own)
-* [Open Science by Design, Realizing a Vision for 21st Century Research (National Academies of Sciences, Engineering, and Medicine) (2018)] (https://www.ncbi.nlm.nih.gov/books/NBK525417/pdf/Bookshelf_NBK525417.pdf) Chapter 4 (starts at page 124 in the PDF, which is page number 107 in the paper)
+* [Open Science by Design, Realizing a Vision for 21st Century Research (National Academies of Sciences, Engineering, and Medicine) (2018)](https://www.ncbi.nlm.nih.gov/books/NBK525417/pdf/Bookshelf_NBK525417.pdf) Chapter 4 (starts at page 124 in the PDF, which is page number 107 in the paper)
 
 ### Monday, January 22nd: Technical writing and publication
 
-#### Morning: 9am - noon
+#### Morning: 9am - 11am
 * LaTeX and MyST (60 minutes)
+  * [LaTeX Cheatsheet](https://katex.org/docs/supported.html)
+  * [Markdown Cheatsheet](https://www.markdownguide.org/cheat-sheet/)
 * Reproducible Computing Environments & Containers (60 minutes)
 
 #### Afternoon: 2pm - 4pm
 * Initialize a MyST project for your final learning artifacts
 
-### Tuesday, January 23rd: TBD depending on week 1
+#### Readings (on your own)
+* [Ten Simple Rules for the Open Development of Scientific Software](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1002802)
+
+### Tuesday, January 23rd: Work on your write-up
+
+#### Morning: On your own
+* This morning, spend time writing up your analysis in markdown / MyST. It should include at least:
+  * One chart produced by Python (pandas, plotly, etc)
+  * One table
+  * One equation
+  * One reference made by DOI
+ 
+#### Afternoon: 1pm - 3pm
+* 
 
 ### Wednesday, January 24th: TBD depending on week 1
 
