@@ -92,7 +92,7 @@ The course will run from Tuesday, January 16th - Thursday, January 25th.
   * [Markdown Cheatsheet](https://www.markdownguide.org/cheat-sheet/)
 * Reproducible Computing Environments & Containers (60 minutes)
 
-#### Afternoon: 2pm - 4pm
+#### Afternoon: 1pm - 3pm
 * Initialize a MyST project for your final learning artifacts
 
 #### Readings (on your own)
@@ -108,7 +108,7 @@ The course will run from Tuesday, January 16th - Thursday, January 25th.
   * One reference made by DOI
  
 #### Afternoon: 1pm - 3pm
-* 
+* Publishing to github pages
 
 ### Wednesday, January 24th: TBD depending on week 1
 
