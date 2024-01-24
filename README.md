@@ -112,6 +112,17 @@ The course will run from Tuesday, January 16th - Thursday, January 25th.
 
 ### Wednesday, January 24th: TBD depending on week 1
 
+#### Morning: 9am start - you get approval to leave
+* Check-in to make sure your final project is hosted on github pages and has minimal required elements
+* Free to work on final project on your own today once checked by Mr. Gibson
+
+#### Afternoon: On your own
+* Make your final project the best you can make it!
+
+#### Readings (on your own)
+* [Opening Up to Open Science (Chelle Gentemann)](https://issues.org/opening-up-open-science-gentemann-erdmann-kroeger/)
+* [Ten simple rules for documenting scientific software (PLOS Computional Biology)](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006561)
+
 ### Thursday, Janaury 25th: Presentations
 
 ## Course Resources
