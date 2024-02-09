@@ -75,6 +75,7 @@ The course will run from Tuesday, January 16th - Thursday, January 25th.
 
 #### Morning: 9am - 11am
 * Introduction to Git and Github (60 minutes)
+    * [Dealing with diverged git branches](https://jvns.ca/blog/2024/02/01/dealing-with-diverged-git-branches/)
     * [Ten Simple Rules for Taking Advantage of Git and Github (PLOS Computational Biology)](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004947)
 * Beginning a Project (60 minutes)
 
